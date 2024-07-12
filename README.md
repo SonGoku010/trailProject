@@ -1,2 +1,2 @@
 # trailProject
-I'm trying to enter in github world
+I'm trying to enter in GitHub world
